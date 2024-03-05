@@ -1,8 +1,9 @@
+
 {
     "private": true,
     "type": "module",
     "scripts": {
-        "prod": "npm run production",
+        "predeploy": "npm run dev",
         "dev": "vite",
         "build": "vite build"
     },
