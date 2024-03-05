@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Neem contact op met Inasja.com voor vragen of meer informatie over onze diensten.">
     <title>Inasja.com-Contact</title>
-    @vite('resources/css/app.css')
+    <link href="{{ asset('build/assets/app-CKW-exbu.css') }}" rel="stylesheet">
 </head>
 <body>
     <x-navigation />
@@ -91,5 +91,6 @@ mb-2 ">KVK 86962752</p>
 
 
 
+    <script src="{{ asset('build/assets/app-CifqVuM1.js') }}" defer></script>
 </body>
 </html>

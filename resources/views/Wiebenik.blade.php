@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Inasja, Wie ben ik, ervaringsdeskundige, coach, woonbegeleider, zelfstandige, zorgsector, Social Worker, religieus trauma, heling, natuurbeleving, beweging, meditatie, journaling, misbruik, Jehovah's Getuigen, nieuw leven, waarheid">
     <title>Inasja.com-Wie ben ik</title>
-    @vite('resources/css/app.css')
+    <link href="{{ asset('build/assets/app-CKW-exbu.css') }}" rel="stylesheet">
 </head>
 <body>
 
@@ -44,5 +44,6 @@
 
     @vite('resources/js/app.js')
 
+    <script src="{{ asset('build/assets/app-CifqVuM1.js') }}" defer></script>
 </body>
 </html>

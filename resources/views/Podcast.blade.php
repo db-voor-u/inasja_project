@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Duik diep in de kunst van moedig leven met de inspirerende podcastserie 'Live Your Life Fearlessly', gehost door Inasja Marroussia Wijdekop. Deze serie nodigt luisteraars uit op een reis van zelfontdekking, persoonlijke groei en het omarmen van een onbevreesde levenshouding.">
     <title>Inasja.com-Podcast</title>
-    @vite('resources/css/app.css')
+    <link href="{{ asset('build/assets/app-CKW-exbu.css') }}" rel="stylesheet">
 </head>
 <style>
 #progress-circle {
