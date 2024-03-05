@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wie ben ik</title>
+    <meta name="keywords" content="Inasja, Wie ben ik, ervaringsdeskundige, coach, woonbegeleider, zelfstandige, zorgsector, Social Worker, religieus trauma, heling, natuurbeleving, beweging, meditatie, journaling, misbruik, Jehovah's Getuigen, nieuw leven, waarheid">
+    <title>Inasja.com-Wie ben ik</title>
     @vite('resources/css/app.css')
 </head>
 <body>

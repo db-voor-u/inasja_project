@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Dit is de homepagina van Inasja.com. Hier vind je informatie over Inasja Marroussia Wijdekop en haar missie om anderen te begeleiden bij zelfontdekking en geluk.">
 
     <title>Inasja.com-Home</title>
     @vite('resources/css/app.css')

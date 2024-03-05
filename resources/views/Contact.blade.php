@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Neem contact op met Inasja.com voor vragen of meer informatie over onze diensten.">
     <title>Inasja.com-Contact</title>
     @vite('resources/css/app.css')
 </head>
