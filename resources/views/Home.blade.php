@@ -6,6 +6,7 @@
     <meta name="description" content="Dit is de homepagina van Inasja.com. Hier vind je informatie over Inasja Marroussia Wijdekop en haar missie om anderen te begeleiden bij zelfontdekking en geluk.">
 
     <title>Inasja.com-Home</title>
+    <script src="https://cdn.tailwindcss.com"></script>
     <link href="{{ asset('build/assets/app-CKW-exbu.css') }}" rel="stylesheet">
 </head>
 <body>
