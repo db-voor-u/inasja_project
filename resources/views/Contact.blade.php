@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -94,3 +95,5 @@ mb-2 ">KVK 86962752</p>
     <script src="{{ asset('build/assets/app-CifqVuM1.js') }}" defer></script>
 </body>
 </html>
+
+
