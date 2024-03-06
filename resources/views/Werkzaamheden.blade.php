@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Inasja.com-Werkzaamheden</title>
-    <link href="{{ asset('build/assets/app-CKW-exbu.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="{{ asset('build/assets/app-CKW-exbu.css') }}" />
 </head>
 <body>
 

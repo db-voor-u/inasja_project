@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Inasja, Wie ben ik, ervaringsdeskundige, coach, woonbegeleider, zelfstandige, zorgsector, Social Worker, religieus trauma, heling, natuurbeleving, beweging, meditatie, journaling, misbruik, Jehovah's Getuigen, nieuw leven, waarheid">
     <title>Inasja.com-Wie ben ik</title>
-    <link href="{{ asset('build/assets/app-CKW-exbu.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="{{ asset('build/assets/app-CKW-exbu.css') }}" />
 </head>
 <body>
 

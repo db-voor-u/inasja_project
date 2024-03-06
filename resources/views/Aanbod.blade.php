@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Inasja, aanbod, empowerment, zelfliefde">
     <title>Inasja.com-Aanbod</title>
-    <link href="{{ asset('build/assets/app-CKW-exbu.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="{{ asset('build/assets/app-CKW-exbu.css') }}" />
 </head>
 <body>
 
