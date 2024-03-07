@@ -1,7 +1,7 @@
 
 <header class="w-full fixed top-0 bg-primary-color h-20 flex flex-row justify-between items-center border-b-2 border-accent-color z-50">
     <a href="/" class="flex flex-col">
-        <h1 class="ml-7 font-bold text-xl">Inasja<span class="text-accent-color">.</span>com</h1>
+        <h1 class="ml-8 font-bold text-xl">Inasja<span class="text-accent-color">.</span>com</h1>
         <p class="text-sm ml-[29px] font-bold">Spreker<span class="text-accent-color">|</span>Empowerment coach</p>
     </a>
     <nav>
