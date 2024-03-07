@@ -2,7 +2,7 @@
 <header class="w-full fixed top-0 bg-primary-color h-20 flex flex-row justify-between items-center border-b-2 border-accent-color z-50">
     <a href="/" class="flex flex-col">
         <h1 class="ml-6 font-bold text-xl">Inasja<span class="text-accent-color">.</span>com</h1>
-        <p class="text-sm ml-[29px] font-bold">Spreker<span class="text-accent-color">|</span>Empowerment coach</p>
+        <p class="text-sm ml-[28px] font-bold">Spreker<span class="text-accent-color">|</span>Empowerment coach</p>
     </a>
     <nav>
         <button id="menu-toggle" class="text-black justify-end mr-8">
