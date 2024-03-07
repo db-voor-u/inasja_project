@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Inasja.com-Werkzaamheden</title>
-    <link rel="stylesheet" href="{{ asset('build/assets/app-CKW-exbu.css') }}" />
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
+
 </head>
 <body>
 
@@ -15,7 +16,6 @@
     <x-footer />
 
 
-    <script src="{{ asset('build/assets/app-CifqVuM1.js') }}" defer></script>
 
 </body>
 </html>

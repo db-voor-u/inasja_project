@@ -16,7 +16,7 @@
         </button>
     </nav>
 </header>
-<div id="menu-content" class="flex fixed inset-0 items-center justify-center bg-black bg-opacity-50 z-40">
+<div id="menu-content" class="flex hidden fixed inset-0 items-center justify-center bg-black bg-opacity-50 z-40">
     <div class="achtergrond relative w-96 bg-white  border-2 justify-between border-accent-color rounded-lg shadow-lg text-center p-5">
         <h1 class="text-center text-2xl font-bold mt-2 mb-5">Ga naar</h1>
         <hr class="border-b-2  border-accent-color mb-5">
@@ -77,7 +77,7 @@ document.getElementById("menu-toggle").addEventListener("click", toggleMenu);
 
 .active-link {
     font-weight: bold;
-    border-bottom: 2px solid #cba5a8; /* Vervang #yourAccentColor door de kleur die je wilt gebruiken */
+    border-bottom: 2px solid #cba5a8;
     padding-bottom: 2px;
 
 

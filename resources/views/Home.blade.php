@@ -6,7 +6,8 @@
     <meta name="description" content="Dit is de homepagina van Inasja.com. Hier vind je informatie over Inasja Marroussia Wijdekop en haar missie om anderen te begeleiden bij zelfontdekking en geluk.">
 
     <title>Inasja.com-Home</title>
-    <link rel="stylesheet" href="{{ asset('build/assets/app-CKW-exbu.css') }}" />
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
+
 </head>
 <body>
   <x-navigation />
@@ -56,6 +57,6 @@
     <x-footer />
 
 
-    <script src="{{ asset('build/assets/app.CifqVuM1.js') }}" defer></script>
+
 </body>
 </html>
